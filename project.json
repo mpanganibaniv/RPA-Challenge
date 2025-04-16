@@ -1,11 +1,10 @@
 {
-  "name": "RPA_Challenge",
-  "projectId": "1919b424-af7a-46d9-8f1d-2ca639cb18d7",
-  "description": "Blank Process",
+  "name": "RPA Challenge",
+  "projectId": "5fe666e7-6f93-47e0-8481-d61e9f9a5937",
+  "description": "RPA Challenge",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.24.0-preview]",
-    "UiPath.Mail.Activities": "[1.23.11]",
     "UiPath.System.Activities": "[24.11.0-preview]",
     "UiPath.Testing.Activities": "[24.10.0]",
     "UiPath.UIAutomation.Activities": "[24.11.1-preview]"
@@ -45,11 +44,53 @@
     },
     "fileInfoCollection": [
       {
+        "editingStatus": "InProgress",
+        "testCaseId": "a33c9ed7-a520-4d8e-9288-b703519e0195",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "fileName": "Tests\\GetTransactionDataTestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "de769c3b-6aa2-4a64-bb8a-c6923760e861",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "fileName": "Tests\\InitAllApplicationsTestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "633821ce-0ff2-416f-9bba-a128a7fe4ab3",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "fileName": "Tests\\InitAllSettingsTestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "614c50bb-acde-4b78-93d9-cc7a71849978",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "fileName": "Tests\\MainTestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "8a276bf0-b616-4f5b-8fd1-2fdc6154b723",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "fileName": "Tests\\ProcessTestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "3546c0c7-dd91-4c75-9960-e50af2a88377",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "fileName": "Tests\\WorkflowTestCaseTemplate.xaml"
+      },
+      {
         "editingStatus": "Publishable",
-        "testCaseId": "61346bf3-5834-440e-8738-21e11201e655",
+        "testCaseId": "310e22e8-4fcd-4aa8-bf95-74fbef79e85a",
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
-        "fileName": "RPA Challenge.xaml"
+        "fileName": "RPA_Challenge.xaml"
       }
     ],
     "saveToCloud": false
@@ -58,7 +99,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "2b646890-33ae-4c77-9fd4-050bb1fe4a8f",
+      "uniqueId": "1a30afd2-7dc2-4b51-b7f9-f50314855814",
       "input": [],
       "output": []
     }
