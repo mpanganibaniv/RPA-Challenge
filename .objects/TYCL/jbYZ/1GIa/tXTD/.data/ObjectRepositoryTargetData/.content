@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nUpTxZF55Uuz7KJ5ARzMCg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://rpachallenge.com/" CVScreenId="e5d05b06-bada-4670-9c33-4af5d2d56b90" CvElementArea="1011, 223, 405, 41" CvType="InputBox" DesignTimeRectangle="1016, 218, 396, 46" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='cbNXB' tag='INPUT' type='' class='ng-untouched ng-pristine ng-invalid' aaname='' /&gt;" Guid="4780469f-517c-49e0-87be-0f5f63605067" IsResponsive="True" ScopeSelectorArgument="[WindowSelector]" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="e5d05b06-bada-4670-9c33-4af5d2d56b90" CvTextArea="1015, 200, 65, 12" CvTextArgument="First Name" CvType="Text" DesignTimeRectangle="1016, 198, 64, 17" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='First Name' tag='LABEL' type='' class='' check:innerText='First Name' /&gt;" Guid="278d4181-dc9a-4100-bda9-274570171939" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2c4131bd12c23007b192ae4773a70877.png" xmlns="">0TZJFCZp2Jker9MUSFKaMKg</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="WindowSelector" />
+    </scg:List>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

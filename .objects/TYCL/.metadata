@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge RPA Challenge",
+  "Type": "App",
+  "Id": "TYCL4tDsnkCCJiqaF_XmHA",
+  "Reference": "ZZpjJVLfyUmP5YKfdW5nGQ/TYCL4tDsnkCCJiqaF_XmHA",
+  "Created": "2025-04-28T15:41:38.2299157Z",
+  "Updated": "2025-04-28T15:41:38.2299157Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

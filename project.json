@@ -1,6 +1,6 @@
 {
   "name": "RPA Challenge",
-  "projectId": "5fe666e7-6f93-47e0-8481-d61e9f9a5937",
+  "projectId": "3fb8a8d9-ba00-4abc-bab3-2ec4b98e2a43",
   "description": "RPA Challenge",
   "main": "Main.xaml",
   "dependencies": {
@@ -13,7 +13,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.10.4.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.1",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -34,7 +34,7 @@
   },
   "designOptions": {
     "projectProfile": "Developement",
-    "outputType": "Process",
+    "outputType": "Tests",
     "libraryOptions": {
       "includeOriginalXaml": false,
       "privateWorkflows": []
@@ -44,66 +44,19 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "InProgress",
-        "testCaseId": "a33c9ed7-a520-4d8e-9288-b703519e0195",
-        "testCaseType": "TestCase",
-        "executionTemplateType": "Local",
-        "fileName": "Tests\\GetTransactionDataTestCase.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "de769c3b-6aa2-4a64-bb8a-c6923760e861",
-        "testCaseType": "TestCase",
-        "executionTemplateType": "Local",
-        "fileName": "Tests\\InitAllApplicationsTestCase.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "633821ce-0ff2-416f-9bba-a128a7fe4ab3",
-        "testCaseType": "TestCase",
-        "executionTemplateType": "Local",
-        "fileName": "Tests\\InitAllSettingsTestCase.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "614c50bb-acde-4b78-93d9-cc7a71849978",
-        "testCaseType": "TestCase",
-        "executionTemplateType": "Local",
-        "fileName": "Tests\\MainTestCase.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "8a276bf0-b616-4f5b-8fd1-2fdc6154b723",
-        "testCaseType": "TestCase",
-        "executionTemplateType": "Local",
-        "fileName": "Tests\\ProcessTestCase.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "3546c0c7-dd91-4c75-9960-e50af2a88377",
-        "testCaseType": "TestCase",
-        "executionTemplateType": "Local",
-        "fileName": "Tests\\WorkflowTestCaseTemplate.xaml"
+        "templateType": "TestCase",
+        "fileName": ".templates\\TestCaseTemplate.xaml"
       },
       {
         "editingStatus": "Publishable",
-        "testCaseId": "310e22e8-4fcd-4aa8-bf95-74fbef79e85a",
+        "testCaseId": "7e87f4a4-ba7d-4052-90f5-bded8d47298e",
         "testCaseType": "TestCase",
-        "executionTemplateInvokeIsolated": false,
         "fileName": "RPA_Challenge.xaml"
       }
     ],
     "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
-  "entryPoints": [
-    {
-      "filePath": "Main.xaml",
-      "uniqueId": "1a30afd2-7dc2-4b51-b7f9-f50314855814",
-      "input": [],
-      "output": []
-    }
-  ],
   "isTemplate": false,
   "templateProjectData": {},
   "publishData": {},

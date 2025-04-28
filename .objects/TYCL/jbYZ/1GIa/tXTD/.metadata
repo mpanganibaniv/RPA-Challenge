@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Type Into First Name",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "tXTD-sQL_0aZC-aOBcGjCg",
+  "Reference": "ZZpjJVLfyUmP5YKfdW5nGQ/tXTD-sQL_0aZC-aOBcGjCg",
+  "ParentRef": "ZZpjJVLfyUmP5YKfdW5nGQ/1GIa4nBpPEKiLCwVrJ4BRA",
+  "Created": "2025-04-28T15:44:21.7939023Z",
+  "Updated": "2025-04-28T15:44:21.7939023Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
